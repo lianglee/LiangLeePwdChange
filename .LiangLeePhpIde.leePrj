@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DOCUMENT Type="Liang Lee PHP IDE" CreateVersion="3.9.1" version="3.9.0" Modules="professional" RootPath="." Language="cn">
+
+     #LiangLeePhpIde 3.x.x , SystemCompoment Bin File (elgg, jom, wp, dup, meng)
+    <COMPONENT cid="liang.lee.php.elgg">
+
+    #LiangLeePhpIde 3.x.x , Buildtype
+    <PRJ Property="BUILDTYPE" MultiBuildValue="Default"/>
+   
+    #LiangLeePhpIde 3.x.x , BuildServer
+    <PRJ Property="SERVERTYPE" Value="UNIX"/>
+   
+     #LiangLeePhpIde 3.x.x , Appcoments
+    <PRJ Property="ARPCOMMENTS" Value="Liang Lee Password Change." ValueLocId="*"/>
+    
+    #LiangLeePhpIde 3.x.x , Repair Systemcompoment
+   <PRJ Property="REPAIR" Value="elgg"/>
+   
+    #LiangLeePhpIde 3.x.x , Which Compoment Elgg, Joomla, Worldpress          
+   <PRJ Property="SYSTEMCOMPONENT" Value="elgg"/>
+
+    #LiangLeePhpIde 3.x.x , Developer Name       
+    <PRJ Property="Manufacturer" Value="Liang Lee" ValueLocId="*"/>
+
+    #LiangLeePhpIde 3.x.x , Product Code       
+    <PRJ Property="ProductCode" Value="801:{A532N3-LEE-OP21-9812-PWDC52A}" Type="5"/>
+    
+    #LiangLeePhpIde 3.x.x , Product Script      
+    <PRJ Property="ProductLanguage" Value="2057"/>
+   
+    #LiangLeePhpIde 3.x.x , Product Name   
+   <PRJ Property="ProductName" Value="LianLeePwdChange"    ValueLocId="*"/>
+        
+    #LiangLeePhpIde 3.x.x , Define Version
+    <PRJ Property="ProductVersion" Value="1.0"/>
+    
+    #LiangLeePhpIde 3.9.1 Need to Call WorkShop
+    <PRJ workshop=[ProductName] />
+
+  </COMPONENT>
